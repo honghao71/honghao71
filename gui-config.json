@@ -1,0 +1,27 @@
+{
+    "configs": [
+        {
+            "method": "aes-256-gcm",
+            "password": "Y6R9pAtvxxzmGC",
+            "remarks": "ZZ_60\n",
+            "server": "169.197.141.5",
+            "server_port": 3306
+        },
+        {
+            "method": "chacha20-ietf-poly1305",
+            "password": "G!yBwPWH3Vao",
+            "remarks": "%F0%9F%87%B8%F0%9F%87%AC%20SG_47\n",
+            "server": "217.197.160.117",
+            "server_port": 810
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "vDS9G2p",
+            "remarks": "%F0%9F%87%B7%F0%9F%87%BA%20Relay_%F0%9F%87%B7%F0%9F%87%BARU-%F0%9F%87%B7%F0%9F%87%BARU_40\n",
+            "server": "185.4.65.6",
+            "server_port": 21247
+        }
+    ],
+    "localPort": 1080,
+    "shareOverLan": false
+}
